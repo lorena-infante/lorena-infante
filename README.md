@@ -3,7 +3,7 @@
 🎨 Front-end Developer <br/>
 👩🏻‍💻 Software Engineer <br/>
 💬 Modern Languages Professional (Spanish, English, Italian, German) <br/>
-🌻 Currently Learning: Angular & Typescript <br/>
+🌻 Currently Learning: Vue 3 & Typescript<br/>
 📫 How to reach me: **m.lorenainfanter@gmail.com**
 
 # 💻 Tech Stack:
